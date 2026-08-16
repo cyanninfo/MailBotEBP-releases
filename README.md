@@ -1,4 +1,14 @@
 # MailBotEBP-releases
+
+## Dernière version
+
+**2.1.0** — [notes de version](https://github.com/cyanninfo/MailBotEBP-releases/releases/tag/V2.1.0)
+
+- Respect de l'ordre des enregistrements de la vue EBP dans les mails générés
+- Ajout du séparateur de milliers pour le formatage des nombres dans le tableau du mail
+
+Historique complet : [Releases](https://github.com/cyanninfo/MailBotEBP-releases/releases)
+
 ## Présentation
 
 **Assistant EBP Paramètre Mail** est un outil complémentaire à EBP Invoicing qui automatise l'envoi de mails depuis vos données de gestion.
